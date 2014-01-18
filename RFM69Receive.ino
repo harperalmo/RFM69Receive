@@ -1,6 +1,7 @@
 
 //Version 0.1
 //This is a test change to see what's up with github
+//Second change to make sure that I have learned something
 //Remote temperature/humidity reporter system.  This is the receive side initially 
 //using a Moteino(with RFM69W)to display the temp/humidity data sent by 
 //another Moteino that is connected to a Sensirion SHT15.  The SHT15 is on 
